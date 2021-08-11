@@ -3,7 +3,7 @@
 
 Short intro:
   - Occasional reader
-  - Music is great(hope you could find something you like in my Spotify account)[spotifylink]
+  - Music is great(hope you could find something you like in my <a href={spotifylink} target="_blank">Spotify</a> account)
   - I think journaling is good for mental growth and mental health.
 
 
