@@ -1,5 +1,5 @@
-### Hi, this is Tin.
-### I'm a fresh college graduate, a developer looking to work on practical projects with real impacts while trying to feed myself :D
+### Hello fellow coders.
+### I'm full stack developer looking to work on practical projects with real impacts while trying to feed myself :D
 
 Short intro:
   - :open_book: Occasional reader
