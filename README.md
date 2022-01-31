@@ -1,5 +1,5 @@
 ### Hello fellow coders.
-### I'm full stack developer looking to work on practical projects with real impacts while trying to feed myself :D
+### I'm a full stack developer looking to work on practical projects with real impacts while trying to feed myself :D
 
 Short intro:
   - :open_book: Occasional reader
@@ -8,7 +8,7 @@ Short intro:
 
 
 Currently I am learning:
-  - ReactJS and VueJS(A typical CS degree barely touches on any Javascript...)
+  - ReactJS and VueJS(it's quite sad that conventional university degrees do not teach much about Javascript and its numerous frameworks)
   - :whale: Docker and containerization, its inner workings and the tech stack behind it.
   - :snake: Python is fun and simple (check out my Smeexer project coded entirely in Python below)
 
