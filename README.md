@@ -3,12 +3,11 @@
 
 Short intro:
   - :open_book: Occasional reader
-  - :headphones: Music is great(hope you could find something you like in my Spotify account)[Here](https://open.spotify.com/user/12167868088?si=1b52cd3bc6c24225target)
   - :writing_hand: I think journaling is good for mental growth and mental health.
 
 
 Currently I am learning:
-  - ReactJS and VueJS(it's quite sad that conventional university degrees do not teach much about Javascript and its numerous frameworks)
+  - React and Vue(it's quite sad that conventional university degrees do not teach much about JS and its numerous frameworks)
   - :whale: Docker and containerization, its inner workings and the tech stack behind it.
   - :snake: Python is fun and simple (check out my Smeexer project coded entirely in Python below)
 
