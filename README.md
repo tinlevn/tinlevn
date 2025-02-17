@@ -1,13 +1,13 @@
 ### Hello fellow coders.
-### I'm a full stack developer looking to work on practical projects with real impacts while trying to feed myself :D
+### I do full stack development, just trying to provide for myself and family.
 
 Short intro:
-  - :open_book: Occasional reader
-  - :writing_hand: I think journaling is good for mental growth and mental health.
+  - :open_book: Sometimes I read
+  - :writing_hand: Journaling is good for mental growth and health.
 
 
-Currently I am learning:
-  - React and Vue(it's quite sad that conventional university degrees do not teach much about JS and its numerous frameworks)
+Currently learning:
+  - AI/LLMs prompting, probably is the current big thing and will be the near/next major skill in software development. 
   - :whale: Docker and containerization, its inner workings and the tech stack behind it.
   - :snake: Python is fun and simple (check out my Smeexer project coded entirely in Python below)
 
